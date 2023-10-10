@@ -2,8 +2,15 @@
 
 ## Required Features
 - [x] One game level (map).
-- [ ] At least 10 objects. These objects can be Unreal basic shapes, assets
+- [ ] At least 10 objects. These objects can be Unreal basic shapes, assets 
 available in the Start Content folder or one of the Unreal template projects.
+
+1. Elevator
+2. Coin
+3. Skeleton
+4. Torch
+5. Drop Door
+
 - Note:
 a. Having 10 instances of the same object (e.g., a chair) does not fulfill
 the 10 objects requirement.
