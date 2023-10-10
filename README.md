@@ -21,7 +21,7 @@ towards the 10 objects requirement.
 
 - Objects should have varied materials, including the following:
 - [x] At least one metallic material. (The gold coin)
-- [x] At least one material with textures (including a normal texture). (The walls)
+- [x] At least one material with textures (including a normal texture). (Sewer)
 - [x] At least one material with customizable UV density. (The walls)
 - [x] The objects should be Blueprints with basic colliders and/or some
 functionality. (The gold coins, the elevator, the drop door) 
