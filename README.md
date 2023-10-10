@@ -27,4 +27,4 @@ towards the 10 objects requirement.
 functionality. (The gold coins, the elevator, the drop door) 
 - [x] At least five light sources. The lights should have some kind of func�onality
 implemented with Blueprints. (The torches, also will add a spotlight over the sword)
-- [ ] At least two functions, macros, or custom events
+- [x] At least two functions, macros, or custom events
