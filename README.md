@@ -2,7 +2,7 @@
 
 ## Required Features
 - [x] One game level (map).
-- [] At least 10 objects. These objects can be Unreal basic shapes, assets
+- [ ] At least 10 objects. These objects can be Unreal basic shapes, assets
 available in the Start Content folder or one of the Unreal template projects.
 - Note:
 a. Having 10 instances of the same object (e.g., a chair) does not fulfill
@@ -17,4 +17,4 @@ c. [x] At least one material with customizable UV density. (The walls)
 functionality. (The gold coins, the elevator, the drop door) 
 - [x] At least five light sources. The lights should have some kind of func�onality
 implemented with Blueprints. (The torches, also will add a spotlight over the sword)
-- [] At least two functions, macros, or custom events
+- [ ] At least two functions, macros, or custom events
