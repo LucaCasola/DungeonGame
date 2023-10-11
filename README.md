@@ -7,9 +7,14 @@ available in the Start Content folder or one of the Unreal template projects.
 
 1. Elevator
 2. Coin
-3. Skeleton
+3. Skeleton (WIP)
 4. Torch
-5. Drop Door
+5. Drop Door 
+6. Health Potion (WIP)
+7. Barrel (WIP)
+8. Gold Challice (3 coins) (WIP)
+9. Lever (WIP)
+10. Doors (Maybe)
 
 - Note:
 
@@ -21,7 +26,7 @@ towards the 10 objects requirement.
 
 - Objects should have varied materials, including the following:
 - [x] At least one metallic material. (The gold coin)
-- [x] At least one material with textures (including a normal texture). (Sewer)
+- [ ] At least one material with textures (including a normal texture). (Sewer)
 - [x] At least one material with customizable UV density. (The walls)
 - [x] The objects should be Blueprints with basic colliders and/or some
 functionality. (The gold coins, the elevator, the drop door) 
