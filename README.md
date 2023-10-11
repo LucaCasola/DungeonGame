@@ -12,9 +12,9 @@ available in the Start Content folder or one of the Unreal template projects.
 5. Drop Door 
 6. Health Potion
 7. Barrel
-8. Gold Challice (3 coins) (WIP)
+8. Gold Challice
 9. Lever
-10. Doors (Maybe)
+10. Sword
 
 - Note:
 
