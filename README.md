@@ -10,10 +10,10 @@ available in the Start Content folder or one of the Unreal template projects.
 3. Skeleton (WIP)
 4. Torch
 5. Drop Door 
-6. Health Potion (WIP)
+6. Health Potion
 7. Barrel (WIP)
 8. Gold Challice (3 coins) (WIP)
-9. Lever (WIP)
+9. Lever
 10. Doors (Maybe)
 
 - Note:
