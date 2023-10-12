@@ -14,7 +14,7 @@ available in the Start Content folder or one of the Unreal template projects.
 7. Barrel
 8. Gold Challice
 9. Lever
-10. Sword
+10. Light up hallway
 
 - Note:
 
