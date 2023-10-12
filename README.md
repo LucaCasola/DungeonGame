@@ -36,8 +36,3 @@ implemented with Blueprints. (The torches, also will add a spotlight over the sw
 
 
 Assignment Requirements Filled
-
-TODO:
-- [ ] Map Design
-- [ ] Sword Room
-- [ ] Report
