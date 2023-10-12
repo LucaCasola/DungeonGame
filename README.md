@@ -7,7 +7,7 @@ available in the Start Content folder or one of the Unreal template projects.
 
 1. Elevator
 2. Coin
-3. Skeleton (WIP)
+3. Skeleton
 4. Torch
 5. Drop Door 
 6. Health Potion
