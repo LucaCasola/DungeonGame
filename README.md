@@ -41,14 +41,14 @@ Assignment 1 Requirements Filled!
 - [ ] At least three game levels (map), in which one of them is a sublevel.
 - [ ] The sublevel must be loaded and unloaded dynamically.
 - [ ] The sublevel must contain at least 5 objects.
-- [ ] The levels must NOT be empty.
+- [x] The levels must NOT be empty.
 - [ ] A user interface displaying the following:
 - [ ] Current level name.
 - [ ] At least two player-related status (e.g., energy and health) that is
 updated based on game events (e.g., picking up an item).
 - [ ] At least one element that isn’t a text (e.g., progress bar or image).
-- [ ] The user interface elements must NOT be freely positioned, and they must
+- [x] The user interface elements must NOT be freely positioned, and they must
 be positioned and anchored appropriately (i.e., if the game window is
 resized, they must adjust accordingly).
-- [ ] A pause menu, allowing the player to resume, restart or quit the game.
+- [x] A pause menu, allowing the player to resume, restart or quit the game.
 - [ ] A death/end menu, allowing the player to restart or quit the game.
