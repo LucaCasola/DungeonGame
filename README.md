@@ -42,11 +42,11 @@ Assignment 1 Requirements Filled!
 - [ ] The sublevel must be loaded and unloaded dynamically.
 - [ ] The sublevel must contain at least 5 objects.
 - [x] The levels must NOT be empty.
-- [ ] A user interface displaying the following:
-- [ ] Current level name.
-- [ ] At least two player-related status (e.g., energy and health) that is
+- [x] A user interface displaying the following:
+- [x] Current level name.
+- [x] At least two player-related status (e.g., energy and health) that is
 updated based on game events (e.g., picking up an item).
-- [ ] At least one element that isn’t a text (e.g., progress bar or image).
+- [x] At least one element that isn’t a text (e.g., progress bar or image).
 - [x] The user interface elements must NOT be freely positioned, and they must
 be positioned and anchored appropriately (i.e., if the game window is
 resized, they must adjust accordingly).
