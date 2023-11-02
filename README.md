@@ -38,9 +38,9 @@ implemented with Blueprints. (The torches, also will add a spotlight over the sw
 Assignment 1 Requirements Filled!
 
 ## Required Features (A2)
-- [ ] At least three game levels (map), in which one of them is a sublevel.
-- [ ] The sublevel must be loaded and unloaded dynamically.
-- [ ] The sublevel must contain at least 5 objects.
+- [x] At least three game levels (map), in which one of them is a sublevel.
+- [x] The sublevel must be loaded and unloaded dynamically.
+- [x] The sublevel must contain at least 5 objects.
 - [x] The levels must NOT be empty.
 - [x] A user interface displaying the following:
 - [x] Current level name.
@@ -51,4 +51,4 @@ updated based on game events (e.g., picking up an item).
 be positioned and anchored appropriately (i.e., if the game window is
 resized, they must adjust accordingly).
 - [x] A pause menu, allowing the player to resume, restart or quit the game.
-- [ ] A death/end menu, allowing the player to restart or quit the game.
+- [x] A death/end menu, allowing the player to restart or quit the game.
