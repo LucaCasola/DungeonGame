@@ -1,6 +1,6 @@
 # DungeonGame
 
-## Required Features (A1)
+## Section A
 - [x] One game level (map).
 - [x] At least 10 objects. These objects can be Unreal basic shapes, assets 
 available in the Start Content folder or one of the Unreal template projects.
@@ -37,7 +37,7 @@ implemented with Blueprints. (The torches, also will add a spotlight over the sw
 
 Assignment 1 Requirements Filled!
 
-## Required Features (A2)
+## Section B
 - [x] At least three game levels (map), in which one of them is a sublevel.
 - [x] The sublevel must be loaded and unloaded dynamically.
 - [x] The sublevel must contain at least 5 objects.
